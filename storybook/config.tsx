@@ -6,7 +6,7 @@
 import { addDecorator, addParameters, configure } from '@storybook/react';
 import * as React from 'react';
 
-import { Theme } from 'SRC/style/Theme';
+import { Theme } from 'SRC/Theme';
 
 import theme from './theme';
 
