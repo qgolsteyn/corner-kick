@@ -68,7 +68,7 @@
         "chance": "1.0.18",
         "detect-browser": "4.5.1",
         "js-yaml-loader": "1.2.0",
-        "lodash": "4.17.11",
+        "lodash": "4.17.21",
         "pixi-viewport": "3.21.2",
         "pixi.js": "4.8.7",
         "react": "16.8.4",
